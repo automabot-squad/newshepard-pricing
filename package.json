@@ -1,0 +1,12 @@
+{
+  "name": "newshepard-pricing",
+  "version": "1.0.0",
+  "description": "Acme lab app: pricing calculator (repo PUBLICO - sem secrets)",
+  "main": "src/index.js",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "handlebars": "4.0.11",
+    "node-fetch": "2.6.0"
+  },
+  "license": "UNLICENSED"
+}
